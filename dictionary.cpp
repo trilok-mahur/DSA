@@ -122,7 +122,6 @@ class Trie {
     }
 };
 
-// Adding a comment
 int main() {
     Trie t;
     vector<string> vect;
