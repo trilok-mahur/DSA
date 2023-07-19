@@ -26,7 +26,7 @@ int maxMoneyLooted(int *arr, int n){
 	return maxMoneyLooted(arr, n, output);
 	
 }
-//      using DP
+//      using DP comment
 int maxMoneyLooted_DP(int *arr, int n) {
 	if(n <= 0) {
 		return 0;
